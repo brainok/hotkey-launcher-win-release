@@ -8,6 +8,6 @@ Launch or minimize apps and folders with global shortcuts, and expand short trig
 
 Requires 64-bit Windows. Run the MSI manually to install or upgrade, then open Hotkey Launcher from the Start menu. Existing user settings are retained. The app does not automatically download or install updates.
 
-This Windows installer is currently **unsigned**. Windows may display an **Unknown Publisher** or similar warning.
+The MSI has a valid Authenticode code signature issued by SSL.com to HYO SUK NAM. The standalone EXE is provided separately.
 
 Made by Hyo Suk Nam · [brainok777@gmail.com](mailto:brainok777@gmail.com) · [Brainok Store](https://store.brainok.net)
